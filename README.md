@@ -14,6 +14,6 @@ For step-by-step process of installing DeepSeek-R1, checkout my guide here: http
 - ✅ Step-by-step process for each method along with model inference.
 <br>
 For the section "Installation using Transformers" you may follow my Python notebook alongside the guide for code simulations.
-<a target="_blank" href="https://github.com/aditi-dsi/deepseek-r1/blob/main/DeepSeek_R1_Distill_Qwen_1.5B.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/aditi-dsi/deepseek-r1/blob/main/DeepSeek_R1_Distill_Qwen_1.5B.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
