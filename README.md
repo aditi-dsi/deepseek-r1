@@ -6,6 +6,7 @@ DeepSeek-R1 is s a powerful open-source reasoning model, offering advanced capab
 
 # Installation Process
 For step-by-step process of installing DeepSeek-R1, checkout my guide here: https://nodeshift.com/blog/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-2.
+You can find this guide on dev.to as well: https://dev.to/nodeshiftcloud/a-step-by-step-guide-to-install-deepseek-r1-locally-with-ollama-vllm-or-transformers-44a1
 <br>
 <br>
 ## What's inside the Guide?
